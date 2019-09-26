@@ -1,4 +1,3 @@
-//This project is created from the tutorial at https://www.mvcode.com/courses/pokedex-website and is heavily commented for learning purposes
 //Ajax function to retrieve data in pokemonData file
 $.ajax({
 	url: "pokemonData.html",
